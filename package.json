@@ -1,0 +1,14 @@
+{
+  "name": "site-mfc",
+  "version": "1.0.0",
+  "description": "Site Officiel du groupe M Five Corporation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developpeurs MFC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
